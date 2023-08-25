@@ -1,7 +1,7 @@
 # Sales-Orders-Exploratory-Data-Analysis
 ## About Dataset
 The dataset comes from a freenium download on the web.
-We have added a Margin and Category column for your needs.
+In the dataset there is a Margin and Category column for your needs.
 
 * Order Date
 * Order ID
@@ -16,3 +16,6 @@ We have added a Margin and Category column for your needs.
 * Cost price
 * turnover
 * margin
+
+## License
+CC0: Public Domain
