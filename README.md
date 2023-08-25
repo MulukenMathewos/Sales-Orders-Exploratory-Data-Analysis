@@ -7,7 +7,7 @@ In the dataset there is a Margin and Category column for your needs.
 * Order ID
 * Product
 * Product_ean
-* catégorie
+* category 
 * Purchase
 * Address
 * Quantity
